@@ -1,0 +1,41 @@
+body{
+    background: rgb(252, 249, 249);
+}
+h1{
+    font-size: 60px;
+    color: black ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+p{
+    font-size: 60px;
+    color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 200px;
+    margin: 60px;
+}
+.cabecalho{
+    background-color: gray
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 650px;
+}
+.item_lista_cabecalho{
+    color: aquamarine;
+    font-size: 30px;
+    list-style: none;
+    padding-left: 50px;
+    
+}
+.logo_cabecalho{
+    width: 360px;
+    margin-left: 750px;
+    margin-top: 80px;
+
+}
